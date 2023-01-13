@@ -3,8 +3,9 @@ go run .\cmd\web
 go-micro\broker-service> go mod init broker 
 
 
-PS C:\Users\dilpant\Desktop\2022\udemy\go-micro\broker-service> go get github.com/go-chi/chi/v5c
+PS C:\Users\dilpant\Desktop\2022\udemy\go-micro\broker-service> go get github.com/go-chi/chi/v5
 
 go get github.com/go-chi/chi/middleware
 
 go get github.com/go-chi/cors 
+
